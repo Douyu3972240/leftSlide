@@ -1,0 +1,132 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/loginByPhone/loginByPhone",
+          "pathName": "pages/loginByPhone/loginByPhone",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/myGroup/myGroup",
+          "pathName": "pages/myGroup/myGroup",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/index/index",
+          "pathName": "pages/index/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/myProject/myProject",
+          "pathName": "pages/myProject/myProject",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/addPerson/addPerson",
+          "pathName": "pages/addPerson/addPerson",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/register/register",
+          "pathName": "pages/register/register",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/loginByWechat/loginByWechat",
+          "pathName": "pages/loginByWechat/loginByWechat",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/clockIn/clockIn",
+          "pathName": "pages/clockIn/clockIn",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/loginByWechat/loginByWechat",
+          "pathName": "pages/loginByWechat/loginByWechat",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/loginByWechat/loginByWechat",
+          "pathName": "pages/loginByWechat/loginByWechat",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/loginByWechat/loginByWechat",
+          "pathName": "pages/loginByWechat/loginByWechat",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/loginByWechat/loginByWechat",
+          "pathName": "pages/loginByWechat/loginByWechat",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/clockIn/clockIn",
+          "pathName": "pages/clockIn/clockIn",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/loginByWechat/loginByWechat",
+          "pathName": "pages/loginByWechat/loginByWechat",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/reportDetail/reportDetail",
+          "pathName": "pages/reportDetail/reportDetail",
+          "query": "extra=%257B%2522id%2522%253A9%252C%2522projectId%2522%253A119%252C%2522projectName%2522%253A%2522%25E6%25B5%258B%25E8%25AF%2595%25E7%25BB%258F%25E7%25BA%25AC%25E5%25BA%25A61%2522%252C%2522labourId%2522%253A11%252C%2522labourName%2522%253A%2522%25E8%25B0%25A2%25E7%2599%25BD%25E7%25B2%25892%2522%252C%2522reportDate%2522%253A%25222021-12-07%2522%252C%2522subTime%2522%253A%25222021-12-07%252014%253A47%253A07%2522%252C%2522content%2522%253A%25221%2522%252C%2522enclosureDescript%2522%253A%25222%2522%252C%2522list%2522%253A%255B%255D%252C%2522img%2522%253A%255B%257B%2522id%2522%253A31%252C%2522reportId%2522%253A9%252C%2522appendix%2522%253A%2522%252Fprofile%252Fappendix%252F2021%252F12%252F08%252FxBBG8jk6TgJj15ed0d9b9a651291c2e2dadfcd602685.jpg%2522%257D%255D%257D",
+          "scene": null
+        },
+        {
+          "name": "pages/loginByWechat/loginByWechat",
+          "pathName": "pages/loginByWechat/loginByWechat",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/loginByWechat/loginByWechat",
+          "pathName": "pages/loginByWechat/loginByWechat",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/loginByWechat/loginByWechat",
+          "pathName": "pages/loginByWechat/loginByWechat",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/register/register",
+          "pathName": "pages/register/register",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

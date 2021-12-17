@@ -1,0 +1,36 @@
+.slideView,.mockSlot{
+    position: relative;
+    /* width:670rpx; */
+    width:100%;
+    margin:0 auto;
+}
+
+.mockSlot{
+    position: absolute;
+    overflow: hidden;
+    height:100%;
+    top:0;
+    right:0;
+}
+
+.btnList{
+    position: absolute;
+    top:0px;
+    right:0px;
+    height:100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform:translateX(calc(100% + 1px));
+}
+
+.btnListItem{
+    height:100%;
+    font-size:28rpx;
+    text-align:center;
+    padding:0 58rpx;
+    color:#fff;
+    background-color:#EA5B24;
+    display:flex;
+    align-items: center;
+}

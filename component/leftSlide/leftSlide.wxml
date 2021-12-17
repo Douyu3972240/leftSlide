@@ -1,0 +1,16 @@
+<view bindtap="navigator" class="slideView" bind:touchstart="touchstart" bind:touchmove="touchmove" bind:touchcancel="touchcancel"
+    bind:touchend="touchend">
+    <view style="{{slotStyle}}">
+    <!-- <view style="{{ isShow && touchType == 2 ? 'transform:translateX(-'+positions.x+'px);' : 'transform:translateX(0px);transition:all .3s;'}}"> -->
+        <slot></slot>
+    </view>
+    <view class="mockSlot">
+        <!-- <view style="font-size:12px;">isShow:{{isShow}}</view>
+        <view style="font-size:12px;">slotStyle:{{slotStyle}}</view>
+        <view style="font-size:12px;">mockSlotStyle:{{mockSlotStyle}}</view> -->
+        <!-- <view class="btnList" style="{{ isShow && touchType == 2 ? 'transform:translateX(calc('+(100% - positions.x)+'px));' :'transform:translateX(100%);transition:all .3s;'}}">  -->
+        <view class="btnList" style="{{mockSlotStyle}};"> 
+            <view style="{{i.style}}" wx:for="{{buttons}}" wx:for-item="i" wx:key="index" wx:for-index="index" catchtap="{{i.eventName}}" class="btnListItem">{{i.text}}</view>
+        </view>
+    </view>
+</view>

@@ -1,0 +1,7 @@
+<view>
+  <view style="margin:10rpx auto;width:350rpx;background-color:#f40;border-radius:8rpx;color:#fff;font-size:40rpx;line-height:100rpx;" wx:for="{{list}}" wx:for-item="k" wx:for-index="index">
+    <custom-leftSlide>
+      item:{{k}}
+    </custom-leftSlide>
+  </view>
+</view>
